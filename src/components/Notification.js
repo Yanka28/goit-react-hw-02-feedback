@@ -1,3 +1,5 @@
+import { Title } from './Notification.styled';
+
 export const Notification = () => {
-  return <div>'There is no feedback'</div>;
+  return <Title>'There is no feedback'</Title>;
 };

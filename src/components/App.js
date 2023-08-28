@@ -1,4 +1,4 @@
-// import { GlobalStyle } from './GlobalStyle';
+import { GlobalStyle } from './GlobalStyle';
 // import { Layout } from './Layout';
 import { Component } from 'react';
 import { FeedbackOptions } from './FeedbackOptions';
@@ -53,6 +53,7 @@ export class App extends Component {
             />
           )}
         </Section>
+        <GlobalStyle />
       </Layout>
     );
   }
