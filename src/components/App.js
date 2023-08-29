@@ -1,5 +1,4 @@
 import { GlobalStyle } from './GlobalStyle';
-// import { Layout } from './Layout';
 import { Component } from 'react';
 import { FeedbackOptions } from './FeedbackOptions';
 import { Layout } from './Layout';
