@@ -1,4 +1,3 @@
-import { nanoid } from 'nanoid';
 import { Options, Button } from './FeedbackOptions.styled';
 
 export const FeedbackOptions = ({ options, addVoice }) => {
